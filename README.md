@@ -2,6 +2,8 @@
 
 Example deep links is explain deep links and universal links. Also you can testing deep links on Android
 
+[Medium Story](https://hasankarli.medium.com/flutter-da-deep-link-ve-universal-link-f8010fba53a4)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
