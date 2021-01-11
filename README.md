@@ -1,6 +1,6 @@
 # example_deep_links
 
-A new Flutter project.
+Example deep links is explain deep links and universal links. Also you can testing deep links on Android
 
 ## Getting Started
 
